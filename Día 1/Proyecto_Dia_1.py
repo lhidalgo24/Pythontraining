@@ -1,0 +1,1 @@
+print("La Marca de tu Cerveza es: \n" + input("Ingresa tu sabor favorito:") + " " + input("Ingresa tu país favorito:"))
