@@ -35,4 +35,5 @@ print(texto3)
 
 # Quinta Parte
 condicion = "python" in lista2
-print("La Palabra Python se encuentra dentro del texto?: " + str(condicion))
+dic = {True:"si",False:"no"}
+print("La Palabra Python se encuentra dentro del texto?: " + dic[condicion])
