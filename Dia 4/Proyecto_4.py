@@ -15,4 +15,5 @@ while numero_intentos > 0:
         print(f"Lo lograste! has ganado, el número de intentos que te tomo es: {numero_intentos}")
         break
     numero_intentos -= 1
-
+if n!=numero:
+    print(f"Lo siento {nombre}, has fallado, el número era: {numero}")
